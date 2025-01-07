@@ -139,12 +139,6 @@ We welcome contributions to improve this project! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - Inspiration from research in mental health detection using AI.
